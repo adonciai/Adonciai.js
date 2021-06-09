@@ -1,7 +1,10 @@
 ### Hi There, I am Adonciai <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="20px"></h2>
 <a href="https://github.com/adonciai">
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=aiasjs&show_icons=true&hide_title=true&theme=merko">
+<h3 align="left">GitHub Stats:</h3>
+<p align="left">
+   <img src="https://github-readme-stats.vercel.app/api?username=bet4w&theme=dark&show_icons=truet" width="%100" height="150px" alt="stats" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bet4w&layout=compact&theme=dark&show_icons=tru" />
 
 ### Ben Developer Adoncia Discord Botları Yapmaktayım Botlarınızda Hata alırsanız Discord Sunucuma Gelerek Yardım Alabilirsiniz
 
