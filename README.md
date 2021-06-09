@@ -7,7 +7,7 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adonciai&layout=compact&theme=dark&show_icons=tru" />
 
 ### Ben Yazılımcı Adoncia Discord Botları Yapmaktayım Botlarınızda Hata alırsanız Discord Sunucuma Gelerek Yardım Alabilirsiniz
- Belki Bana Ulaşabileceğin Sunucu discord.gg/h6vErsKxrh
+ Belki Bana Ulaşabileceğin Sunucu (discord.gg/h6vErsKxrh)
 
 ## Spotify Playing Now:
 
