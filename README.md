@@ -1,5 +1,5 @@
-### Hi There, I am Elminstêr 👋
-<p align="left">Hi, I’m Adoncia <a href="https://github.com/adonciai"></a>,  🚀</p>
+### Hi There, I am Adonciai 👋
+
 <h3>My Personal accounts:</h3>
 <p align="left">
 <a href="https://discord.gg/58UAMVJTSH" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
