@@ -2,10 +2,10 @@
 <a href="https://discordapp.com/users/719458133617147986/">
 
 <a href="https://github.com/adonciai">
-  <img align="left" alt="Elminstr" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="adonciai" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Elminstr" alt="Elminstr" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Elminstr" alt="adonciai" /> </p>
 <br />
 <p align="center">
  <a href="https://discord.com/users/764899410144264244" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
