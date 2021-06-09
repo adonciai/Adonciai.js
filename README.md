@@ -20,7 +20,7 @@
   <a href="https://open.spotify.com/user/31njk35vtoyg52zcfez74mul3xvm" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 
 
-<h3>Bildigim Diller:</h3>
+<h3>Gerekli Araçlar:</h3>
 <p style="float:right">
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
