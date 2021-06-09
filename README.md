@@ -3,7 +3,7 @@
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=aiasjs&show_icons=true&hide_title=true&theme=merko">
 
-Ben Developer Adoncia Discord Botları Yapmaktayım Botlarınızda Hata alırsanız Discord Sunucuma Gelerek Yardım Alabilirsiniz
+### Ben Developer Adoncia Discord Botları Yapmaktayım Botlarınızda Hata alırsanız Discord Sunucuma Gelerek Yardım Alabilirsiniz
 
 
 </a>
