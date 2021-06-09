@@ -1,4 +1,4 @@
-### Hi There, I am Adonciai 👋
+### Hi There, I am Adonciai <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="20px"></h2>
 <a href="https://discordapp.com/users/719458133617147986/">
 
 <a href="https://github.com/adonciai">
