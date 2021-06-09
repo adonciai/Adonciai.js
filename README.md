@@ -1,22 +1,17 @@
 ### Hi There, I am Adonciai 👋
 <a href="https://discordapp.com/users/719458133617147986/">
 
+<a href="https://github.com/Elminstr">
+  <img align="left" alt="Elminstr" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Elminstr" alt="Elminstr" /> </p>
+<br />
+<p align="center">
+ <a href="https://discord.com/users/764899410144264244" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://www.github.com/Elminstr" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://open.spotify.com/user/31njk35vtoyg52zcfez74mul3xvm" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+ <a href="https://www.instagram.com/elminstr" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+ 
 
 
-
-</p>
-<h3>Talking about Personal Stuffs:</h3>
-<ul>
-<li>💻 Right now, I am focused on bot coding.</li>
-<li>📫 You can reach me from <a href="https://discord.com/users/780891365063917572" target"blank_">Discord</a>.</li>
-<li>📺 My favorite series is Lucifer as you can see below</li>
-</ul>
-<h3>Little information</h3>
-<ul>
-<li>Hello guys, I have decided not to share my projects on my github account as of May 15th. I think I have improved enough and now I have decided to turn this into a business. I'll do it for a fee for Discord servers. You can contact the links above.</li>
-</ul>
-<h3>Languages and Tools:</h3>
-<p style="float:right">
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
