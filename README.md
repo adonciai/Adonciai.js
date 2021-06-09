@@ -4,6 +4,10 @@
 <a href="https://github.com/adonciai">
 </a>
 
+## Spotify Playing Now:
+
+  [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31njk35vtoyg52zcfez74mul3xvm)
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adonciai" alt="adonciai" /> </p>
 <br />
 <p align="center">
