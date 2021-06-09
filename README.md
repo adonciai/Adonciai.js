@@ -4,7 +4,7 @@
 <a href="https://github.com/adonciai">
 </a>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Elminstr" alt="adonciai" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=adonciai" alt="adonciai" /> </p>
 <br />
 <p align="center">
  <a href="https://discord.com/users/764899410144264244" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
