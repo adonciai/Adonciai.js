@@ -1,7 +1,7 @@
 ### Hi There, I am Adonciai 👋
 <a href="https://discordapp.com/users/719458133617147986/">
 
-<a href="https://github.com/Elminstr">
+<a href="https://github.com/adonciai">
   <img align="left" alt="Elminstr" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
