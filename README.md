@@ -6,7 +6,7 @@
 ### Ben Developer Adoncia Discord Botları Yapmaktayım Botlarınızda Hata alırsanız Discord Sunucuma Gelerek Yardım Alabilirsiniz
 
 
-</a>
+
 
 ## Spotify Playing Now:
 
