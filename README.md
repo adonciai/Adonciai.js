@@ -3,8 +3,8 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=bet4w&theme=dark&show_icons=truet" width="%100" height="150px" alt="stats" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bet4w&layout=compact&theme=dark&show_icons=tru" />
+   <img src="https://github-readme-stats.vercel.app/api?username=adonciaiw&theme=dark&show_icons=truet" width="%100" height="150px" alt="stats" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adonciaiw&layout=compact&theme=dark&show_icons=tru" />
 
 ### Ben Developer Adoncia Discord Botları Yapmaktayım Botlarınızda Hata alırsanız Discord Sunucuma Gelerek Yardım Alabilirsiniz
 
