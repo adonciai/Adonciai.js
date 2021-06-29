@@ -25,3 +25,4 @@
 
 
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/729226812776906832?theme=light&bg=1f0b3b&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/719458133617147986)
